@@ -83,9 +83,3 @@ v0.1.0 - First Release
 ## License
 
 This is free software distributed under the terms of the MIT license
-
-## Additional information
-
-Inspired by and based on [bookmarkly.com](http://bookmarkly.com) & [readtrend.com](http://readtrend.com)
-
-Any questions, feel free to [contact me](http://about.me/yhbyun).
